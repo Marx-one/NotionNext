@@ -1,6 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['马克思：', '哲学家们只是用不同的方式解释世界', '问题在于改变世界。'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['卡尔·马克思', '哲学家们只是用不同的方式解释世界', '问题在于改变世界。'], // 首页大图标语文字
 
   HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
 
